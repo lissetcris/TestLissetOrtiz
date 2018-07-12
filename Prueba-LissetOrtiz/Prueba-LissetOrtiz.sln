@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba-LissetOrtiz", "Prueba-LissetOrtiz\Prueba-LissetOrtiz.csproj", "{B6E46C78-32EE-4491-9D78-196A9C168122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba-LissetOrtiz.Tests", "Prueba-LissetOrtiz.Tests\Prueba-LissetOrtiz.Tests.csproj", "{7BAFAC92-07A1-46AA-9300-9C29E67BCF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E46C78-32EE-4491-9D78-196A9C168122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E46C78-32EE-4491-9D78-196A9C168122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E46C78-32EE-4491-9D78-196A9C168122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E46C78-32EE-4491-9D78-196A9C168122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAFAC92-07A1-46AA-9300-9C29E67BCF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAFAC92-07A1-46AA-9300-9C29E67BCF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAFAC92-07A1-46AA-9300-9C29E67BCF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAFAC92-07A1-46AA-9300-9C29E67BCF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

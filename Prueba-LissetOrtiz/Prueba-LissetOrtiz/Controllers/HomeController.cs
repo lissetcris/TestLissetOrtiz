@@ -11,6 +11,7 @@ namespace Prueba_LissetOrtiz.Controllers
         public ActionResult Index()
         {
             //Retorna la vista
+
             return View();
         }
 
